@@ -1,10 +1,10 @@
 [gd_scene load_steps=8 format=3 uid="uid://codx6pjkf42qr"]
 
 [ext_resource type="Script" path="res://scenes/main_menu.gd" id="1_to4yg"]
-[ext_resource type="Texture2D" uid="uid://buy20853q0a87" path="res://Yellow.png" id="2_3plwq"]
-[ext_resource type="Texture2D" uid="uid://boagncmojqcvx" path="res://Brand 2 - 1024x1024 stroke swap.png" id="2_r003k"]
+[ext_resource type="Texture2D" uid="uid://corx5piathpkp" path="res://assets/Yellow.png" id="2_3plwq"]
+[ext_resource type="Texture2D" uid="uid://dpg0drqg00of" path="res://assets/Brand 2 - 1024x1024 stroke swap.png" id="2_r003k"]
 [ext_resource type="PackedScene" uid="uid://bx2y2w6g45oe2" path="res://scenes/main_character.tscn" id="4_dk04q"]
-[ext_resource type="Texture2D" uid="uid://cmp4jiqrbivbc" path="res://Terrain (16x16).png" id="4_h2kqb"]
+[ext_resource type="Texture2D" uid="uid://imt0cgio583c" path="res://assets/Terrain (16x16).png" id="4_h2kqb"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rmiqq"]
 texture = ExtResource("4_h2kqb")
